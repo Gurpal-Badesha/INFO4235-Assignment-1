@@ -1,0 +1,21 @@
+body{
+    color: black;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding:0
+}
+
+section{
+    margin-left: 10px;
+    margin-right: 10px;
+
+}
+
+td{
+    padding-right: 30px;
+}
+
+ /* td[rowspan]{
+    vertical-align: top;
+    text-align: left;
+} */
